@@ -1,14 +1,15 @@
 # mvc.pattern
 
-**This is a task-builder application built with javascript and utilizing the Model View Controller pattern.
+**This is a task-builder application built with javascript and utilizing the Model View Controller pattern.**
 
-**Below are excerpts from an article on AWWWARDS online.
+**Below are excerpts from an article on AWWWARDS online.**
 
-**The original article can be found here:
+**The original article can be found here:**
 https://www.awwwards.com/build-a-simple-javascript-app-the-mvc-way.html 
 
 
 #MODEL
+
 Model (Data Layer)- This is where the data is stored for your app. 
 The model is decoupled from the views and controllers and has deliberate
 ignorance from the wider context. Whenever a model changes, it will notify 
